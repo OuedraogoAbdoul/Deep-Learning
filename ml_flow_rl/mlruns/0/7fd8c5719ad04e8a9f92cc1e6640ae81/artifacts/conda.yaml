@@ -1,0 +1,13 @@
+name: tensorflow-example
+channels:
+  - conda-forge
+dependencies:
+  - python=3.6
+  - pip
+  - pip:
+    - mlflow
+    - tensorflow==2.0.0
+    - scikit-learn==0.24.2
+    - lightgbm>=3.2.1
+    - matplotlib>=3.3.0
+    - yfinance>=0.1.56

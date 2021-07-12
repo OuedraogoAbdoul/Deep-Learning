@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/admin/Desktop/gitrepos/Deep-Learning/ml_flow_rl/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: Time series forecasting

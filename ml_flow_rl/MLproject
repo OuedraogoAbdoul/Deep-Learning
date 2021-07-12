@@ -1,0 +1,10 @@
+name: tensorflow-rnn
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    parameters:
+      batch_size: {type: int, default: 100}
+      train_steps: {type: int, default: 1000}
+    command: "python train_predict.py"
