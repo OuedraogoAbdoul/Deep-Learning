@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/admin/Desktop/gitrepos/Deep-Learning/eczema/mlruns/0/eeff9de2ae9f43b6b84adcaea1cbdf2e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: eeff9de2ae9f43b6b84adcaea1cbdf2e
+run_uuid: eeff9de2ae9f43b6b84adcaea1cbdf2e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1626029270843
+status: 1
+tags: []
+user_id: admin
